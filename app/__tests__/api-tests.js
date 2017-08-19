@@ -1,4 +1,4 @@
-"use strict";
+ "use strict";
 jest.mock('fetch-on-rest');
 var api = require('../api.js');
 
